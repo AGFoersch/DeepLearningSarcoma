@@ -7,14 +7,7 @@ Soft Tissue Sarcoma (STS) are rare tumors, which are particularly difficult to d
 ## Requirements
 :man_factory_worker: Under construction (libraries with versions here) :man_factory_worker:
 
-python >=3.6
-fastai version 1.0.57 (v1)
-matplotlib 3.1.3
-pandas 1.1.5
-torch 1.4.0
-torchvision 0.5.0
-Pillow 7.0.0
-sklearn 0.23.1
+python >=3.6  fastai version 1.0.57 (v1)  matplotlib 3.1.3  pandas 1.1.5  torch 1.4.0  torchvision 0.5.0  Pillow 7.0.0  sklearn 0.23.1
 
 ## How to use the code
 :construction: Under construction (tutorial with iPython notebook here) :construction:

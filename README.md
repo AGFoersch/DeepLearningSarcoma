@@ -21,7 +21,7 @@ sklearn 0.23.1<br/>
 
 To use the code the requirements mentioned above need to be installed. Furthermore, all calculations were done on a Titan RTX, so it is highly recommended you use a similar or better GPU for your experiments. The example code is easy to use and straight forward - simply follow the ipython notebook and adjust it to your setup / question. In our example, the key.csv file contains the patient_ID, which is important to get patient based metrics, the path to where the images of that case are stored, the label, a column denoting whether the image belongs to the TRAIN, VALID, or TEST set and another boolean value "is_valid" for only the validation cases. This setup can easily be changed however, to fit your individual requirements. For further information make sure to check out the markup text within the notebook.
 
-(Note: The examples provided in this Github Repo will not be sufficient to reach the levels of performance achieved in our paper. They are just included for you to be able to get the code up and running. The images have already been normalized to a reference image using structure preserving color normalization (SPCN)).
+(Note: The examples provided in this Github Repo will not be sufficient to reach the levels of performance achieved in our paper. They are just included for you to be able to get the code up and running. The images have already been normalized to a reference image using structure preserving color normalization (SPCN). If the .ipynb file does not work just copy the link and paste it under https://nbviewer.jupyter.org/)
 
 ## How to cite the paper
 :construction_worker_woman: Under construction (reference here) :construction_worker_woman:

@@ -1,5 +1,5 @@
 # DeepLearningSarcoma
-This is the Github Repo to the research paper **"Deep learning for diagnosis and survival prediction in soft tissue sarcoma"** by Foersch et al. Detailed code examples and a sample dataset will be made available shortly. In the meantime, feel free to inquire about this project to our group [here](mailto:sebastian.foersch@unimedizin-mainz.de?subject=[GitHub]Deep%20Learning%20Sarcoma) :microscope::man_health_worker::desktop_computer:
+This is the Github Repo to the research paper **"Deep learning for diagnosis and survival prediction in soft tissue sarcoma"** by Foersch et al. It will provide you with a code example, similar to the code used in our study. For further questions feel free to inquire about this project to our group [here](mailto:sebastian.foersch@unimedizin-mainz.de?subject=[GitHub]Deep%20Learning%20Sarcoma) :microscope::man_health_worker::desktop_computer:
 ## Introduction
 :building_construction: Under construction (summary of the findings and abstract here) :building_construction:
 
